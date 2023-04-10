@@ -1,0 +1,12 @@
+WARNING:root:this may break
+ERROR:root:fix this error
+CRITICAL:root:This is really critical error solve asap
+WARNING:root:this may break
+ERROR:root:fix this error
+CRITICAL:root:This is really critical error solve asap
+WARNING:root:this may break
+ERROR:root:fix this error
+CRITICAL:root:This is really critical error solve asap
+2023-03-22 14:59:32,327 this may break
+2023-03-22 14:59:32,328 fix this error
+2023-03-22 14:59:32,328 This is really critical error solve asap
